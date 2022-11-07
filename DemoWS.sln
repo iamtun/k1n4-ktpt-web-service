@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWS", "DemoWS\DemoWS.csproj", "{7378C311-CF93-4F4C-BF93-56A2887E6C19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientDemoWS", "ClientDemoWS\ClientDemoWS.csproj", "{6622FC31-F712-4CAB-B94C-222BC2E61C96}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7378C311-CF93-4F4C-BF93-56A2887E6C19} = {7378C311-CF93-4F4C-BF93-56A2887E6C19}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7378C311-CF93-4F4C-BF93-56A2887E6C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7378C311-CF93-4F4C-BF93-56A2887E6C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7378C311-CF93-4F4C-BF93-56A2887E6C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7378C311-CF93-4F4C-BF93-56A2887E6C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6622FC31-F712-4CAB-B94C-222BC2E61C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6622FC31-F712-4CAB-B94C-222BC2E61C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6622FC31-F712-4CAB-B94C-222BC2E61C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6622FC31-F712-4CAB-B94C-222BC2E61C96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA7E7BFE-C6E0-4F1B-8799-3D79A8CAC2B7}
+	EndGlobalSection
+EndGlobal

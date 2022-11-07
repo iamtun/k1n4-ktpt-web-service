@@ -1,0 +1,11 @@
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\web-services\DemoWS\ClientDemoWS\bin\Debug\ClientDemoWS.exe.config
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\web-services\DemoWS\ClientDemoWS\bin\Debug\ClientDemoWS.exe
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\web-services\DemoWS\ClientDemoWS\bin\Debug\ClientDemoWS.pdb
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\web-services\DemoWS\ClientDemoWS\obj\Debug\ClientDemoWS.csproj.AssemblyReference.cache
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\web-services\DemoWS\ClientDemoWS\obj\Debug\ClientDemoWS.csproj.SuggestedBindingRedirects.cache
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\web-services\DemoWS\ClientDemoWS\obj\Debug\ClientDemoWS.Form1.resources
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\web-services\DemoWS\ClientDemoWS\obj\Debug\ClientDemoWS.Properties.Resources.resources
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\web-services\DemoWS\ClientDemoWS\obj\Debug\ClientDemoWS.csproj.GenerateResource.cache
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\web-services\DemoWS\ClientDemoWS\obj\Debug\ClientDemoWS.csproj.CoreCompileInputs.cache
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\web-services\DemoWS\ClientDemoWS\obj\Debug\ClientDemoWS.exe
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\web-services\DemoWS\ClientDemoWS\obj\Debug\ClientDemoWS.pdb
